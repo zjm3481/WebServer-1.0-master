@@ -76,7 +76,7 @@
                     </descriptorRefs>
                     <archive>
                         <manifest>
-                            <mainClass>com.sinjinsong.webserver.sample.Main</mainClass>
+                            <mainClass>com.study.webserver.sample.Main</mainClass>
                         </manifest>
                     </archive>
                 </configuration>
