@@ -17,7 +17,7 @@ import java.util.concurrent.ThreadPoolExecutor;
 import java.util.concurrent.TimeUnit;
 
 /**
- * Created by SinjinSong on 2017/7/21.
+ * 请求分发
  */
 @Data
 @Slf4j

@@ -1,7 +1,7 @@
 package com.study.webserver.core.enumeration;
 
 /**
- * Created by SinjinSong on 2017/7/20.
+ * http状态码
  */
 public enum HTTPStatus {
     OK(200),NOT_FOUND(404),INTERNAL_SERVER_ERROR(500),BAD_REQUEST(400),MOVED_TEMPORARILY(302);

@@ -1,7 +1,7 @@
 package com.study.webserver.core.constant;
 
 /**
- * Created by SinjinSong on 2017/7/20.
+ * http报文常量
  */
 public class Context {
     public static final String ERROR_PAGE = "/errors/%s.html";

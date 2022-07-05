@@ -3,8 +3,7 @@ package com.study.webserver.core;
 import java.util.Scanner;
 
 /**
- * @author sinjinsong
- * @date 2018/3/6
+ * 启动引导
  */
 public class BootStrap {
     

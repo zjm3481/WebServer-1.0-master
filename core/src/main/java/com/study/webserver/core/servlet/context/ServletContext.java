@@ -17,7 +17,7 @@ import java.util.Map;
 import java.util.concurrent.ConcurrentHashMap;
 
 /**
- * Created by SinjinSong on 2017/7/21.
+ * 根据xml配置文件构建servlet映射
  */
 @Data
 @Slf4j

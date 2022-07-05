@@ -26,7 +26,7 @@ import java.util.List;
 import java.util.Map;
 
 /**
- * Created by SinjinSong on 2017/7/20.
+ *
  * <p>
  * GET /search?hl=zh-CN&source=hp&q=domety&aq=f&oq= HTTP/1.1
  * Accept: image/gif, image/x-xbitmap, image/jpeg, image/pjpeg, application/vnd.ms-excel, application/vnd.ms-powerpoint,

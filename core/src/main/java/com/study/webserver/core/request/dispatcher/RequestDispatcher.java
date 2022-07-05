@@ -7,7 +7,7 @@ import com.study.webserver.core.response.Response;
 import java.io.IOException;
 
 /**
- * Created by SinjinSong on 2017/7/21.
+ * 请求分发
  */
 public interface RequestDispatcher {
     

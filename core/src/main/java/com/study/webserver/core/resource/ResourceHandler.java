@@ -17,7 +17,7 @@ import java.io.IOException;
 import java.net.Socket;
 
 /**
- * Created by SinjinSong on 2017/7/20.
+ * 资源工具
  */
 @Slf4j
 public class ResourceHandler {

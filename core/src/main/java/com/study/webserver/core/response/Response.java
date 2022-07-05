@@ -15,7 +15,7 @@ import static com.study.webserver.core.constant.CharsetProperties.UTF_8_CHARSET;
 import static com.study.webserver.core.constant.Context.DEFAULT_CONTENT_TYPE;
 
 /**
- * Created by SinjinSong on 2017/7/20.
+ * 响应
  * HTTP/1.1 200 OK
  * Date: Sat, 31 Dec 2005 23:59:59 GMT
  * Content-Type: text/html;constant=ISO-8859-1
@@ -32,6 +32,7 @@ import static com.study.webserver.core.constant.Context.DEFAULT_CONTENT_TYPE;
  */
 @Slf4j
 public class Response {
+    //
     private StringBuilder headerAppender;
     private StringBuilder bodyAppender;
     private List<Cookie> cookies;

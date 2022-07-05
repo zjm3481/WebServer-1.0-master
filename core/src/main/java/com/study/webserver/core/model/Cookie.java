@@ -5,7 +5,7 @@ import lombok.Data;
 import lombok.NoArgsConstructor;
 
 /**
- * Created by SinjinSong on 2017/7/21.
+ * cookie
  */
 @Data
 @NoArgsConstructor

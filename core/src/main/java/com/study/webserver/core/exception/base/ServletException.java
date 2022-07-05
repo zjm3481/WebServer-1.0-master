@@ -4,7 +4,7 @@ import com.study.webserver.core.enumeration.HTTPStatus;
 import lombok.Getter;
 
 /**
- * Created by SinjinSong on 2017/7/20.
+ * 异常
  */
 @Getter
 public class ServletException extends Exception {

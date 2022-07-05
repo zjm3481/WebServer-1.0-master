@@ -3,7 +3,7 @@ package com.study.webserver.core.constant;
 import java.nio.charset.Charset;
 
 /**
- * Created by SinjinSong on 2017/7/20.
+ * 编码格式常量
  */
 public class CharsetProperties {
     public static final Charset UTF_8_CHARSET = Charset.forName("UTF-8");

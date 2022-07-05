@@ -19,7 +19,7 @@ import lombok.extern.slf4j.Slf4j;
 import java.io.IOException;
 
 /**
- * Created by SinjinSong on 2017/7/21.
+ * 请求分发
  */
 @Data
 @NoArgsConstructor

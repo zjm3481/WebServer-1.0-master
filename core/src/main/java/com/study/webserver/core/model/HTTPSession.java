@@ -4,7 +4,7 @@ import java.util.Map;
 import java.util.concurrent.ConcurrentHashMap;
 
 /**
- * Created by SinjinSong on 2017/7/21.
+ * session
  */
 public class HTTPSession {
     private String id;
