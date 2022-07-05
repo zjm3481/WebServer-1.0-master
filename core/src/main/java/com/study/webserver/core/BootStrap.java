@@ -6,7 +6,6 @@ import java.util.Scanner;
  * 启动引导
  */
 public class BootStrap {
-    
     public static void run() {
         Server server = new Server();
         Scanner scanner = new Scanner(System.in);
