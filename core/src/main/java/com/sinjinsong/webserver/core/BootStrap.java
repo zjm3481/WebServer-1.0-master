@@ -7,7 +7,6 @@ import java.util.Scanner;
  * @date 2018/3/6
  */
 public class BootStrap {
-    
     public static void run() {
         Server server = new Server();
         Scanner scanner = new Scanner(System.in);
