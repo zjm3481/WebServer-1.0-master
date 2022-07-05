@@ -3,15 +3,15 @@
     
     <servlet>
         <servlet-name>LoginServlet</servlet-name>
-        <servlet-class>com.sinjinsong.webserver.sample.servlet.LoginServlet</servlet-class>
+        <servlet-class>com.study.webserver.sample.servlet.LoginServlet</servlet-class>
     </servlet>
     <servlet>
         <servlet-name>LogoutServlet</servlet-name>
-        <servlet-class>com.sinjinsong.webserver.sample.servlet.LogoutServlet</servlet-class>
+        <servlet-class>com.study.webserver.sample.servlet.LogoutServlet</servlet-class>
     </servlet>
     <servlet>
         <servlet-name>UserServlet</servlet-name>
-        <servlet-class>com.sinjinsong.webserver.sample.servlet.UserServlet</servlet-class>
+        <servlet-class>com.study.webserver.sample.servlet.UserServlet</servlet-class>
     </servlet>
     
     <servlet-mapping>
